@@ -1,1 +1,1 @@
-# CGPA-calculator-usong-Javascript
+# CGPA-calculator-using-Javascript
